@@ -15,3 +15,7 @@ Instructions:
     (d) - Delete macro: This will display a list of the macros present and then prompt the user to select the macro number they wish to delete, or 0 to cancel.
    
     (e) - Exit: This will close the program
+
+
+|^| **If you found this script helpful, please feel free to toss me a buck on Kofi! :)**
+https://ko-fi.com/wangthunder |^|
